@@ -5,6 +5,7 @@
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I have a black belt in Judo!
 
+This is my personal Git repo, not W&M affilliated.
 <!---
 ElBaranowski/ElBaranowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
